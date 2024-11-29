@@ -1,0 +1,11 @@
+DeepXDE==1.11.1
+keras==2.15.0
+matplotlib==3.8.4
+numpy==1.26.4
+scikit_learn==1.4.2
+scikit-optimize==0.10.1
+scipy==1.13.0
+tensorflow==2.15.0
+tensorflow_intel==2.15.0
+tensorflow_probability==0.23.0
+matplotlib==3.8.4

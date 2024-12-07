@@ -7,7 +7,7 @@ tf.keras.backend.set_floatx(DTYPE)
 
 def load_data(d1=0, d2=25):
     # loading generated data
-    XDE_data = np.loadtxt("deep_data.txt")
+    XDE_data = np.loadtxt("new_data.txt")
     t_data = XDE_data[:,0]
     x_data = XDE_data[:,1]
     plt.plot(t_data,x_data)
